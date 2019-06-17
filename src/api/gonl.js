@@ -1,0 +1,5 @@
+export const urlf = "http://192.168.3.35:3000/getDissListf"
+export const urlb = "http://192.168.3.35:3000/getDissLista"
+export const urlc = "http://192.168.3.35:3000/getDissListc"
+export const urld = "http://192.168.3.35:3000/getDissListd"
+export const urle = "http://192.168.3.35:3000/getDissListe"
